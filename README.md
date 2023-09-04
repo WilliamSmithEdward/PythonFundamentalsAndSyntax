@@ -12,7 +12,7 @@ If you have any questions or this code was helpful to you, please feel free to r
 * Conditional logic
 * Looping (for, while, for each)
 * Functions
-* Overloading
+* Overloads
 * List comprehensions & generators
 * Error handling
 * File I/O
