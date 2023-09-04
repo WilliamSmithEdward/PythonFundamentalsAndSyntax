@@ -1,8 +1,9 @@
 # PythonFundamentalsAndSyntax
 The purpose of this project is to demonstrate programming principles and syntax in Python for someone who is generally familiar with programming in another language.
 
-Created by William Smith, 2023
 If you have any questions or this code was helpful to you, please feel free to reach out to me at williamsmithe@icloud.com
+
+Created by William Smith, 2023
 
 ## Topics Covered
 
